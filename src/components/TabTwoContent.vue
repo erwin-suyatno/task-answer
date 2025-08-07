@@ -131,7 +131,7 @@ const showSolution = (solutionNumber) => {
 
 const input = [
   [0, 1, 2, 3],
-  [0, 0, 1, 2],
+  [0, 3, 1, 2],
   [1, 2, 3, 4],
   [2, 3, 1, 4],
   [0, 2, 2, 3],
